@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:54.269097
+#+DATE: 2015-08-30 20:19:54.873178
 #+TITLE: 佛說八無暇有暇經
 #+PROPERTY: CBETA_ID T17n0756
 #+PROPERTY: ID KR6i0452
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 756
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0452_T_000-0590b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0452_T_001-0590b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.756¶
-
- 《佛說八無暇有暇經》¶
+No. 756¶
+《佛說八無暇有暇經》¶
 ¶
-大唐三藏法師義淨奉　制譯¶
+唐三藏法師義淨奉　制譯¶
 
 如是我聞：
 
@@ -119,12 +118,12 @@ No.756¶
 　於地獄中受斯苦，
 　此處豈能聞正法？¶
 　飢渴針咽苦逼身，
-　雨注河流成猛火，
+　兩注河流成猛火，
 <pb:KR6i0452_T_001-0591b>¶
 　於餓鬼中受斯苦，
 　此處豈能聞正法？¶
 　更互恒懷怖害心，
-　常欲展轉相食噉，¶
+　常欲展轉相飡噉，¶
 　於傍生中受斯苦，
 　此處豈能聞正法？¶
 　若在天中有頂處，
@@ -144,7 +143,7 @@ No.756¶
 　如是邪見壞其心，
 　此人豈能聞正法？¶
 　諸佛大師不出現，
-　亦無妙法流世間，¶
+　設無妙法流世間，¶
 　若人生居闇世中，
 　此時豈能聞正法？¶
 　若人生於有暇處，

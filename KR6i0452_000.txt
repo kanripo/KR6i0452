@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說八無暇有暇經
+#+DATE: 2015-08-30 20:19:54.451221
+#+PROPERTY: JUAN 0

@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:54.269097
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:38
 #+TITLE: 佛說八無暇有暇經
 #+PROPERTY: CBETA_ID T17n0756
 #+PROPERTY: ID KR6i0452
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 756
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0452_T_000-0590b>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0452_T_001-0590b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.756¶
-
- 《佛說八無暇有暇經》¶
+No. 756¶
+《佛說八無暇有暇經》¶
 ¶
 大唐三藏法師義淨奉　制譯¶
 
@@ -187,9 +186,9 @@ No.756¶
 　一切隨眠斷，
 　降伏大魔怨，¶
 　永超生死流，
-　得昇於彼岸。」
+　得昇於彼岸。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說是經已，時諸苾芻、人天大眾，聞¶
 佛所說，歡喜頂戴，信受奉行。¶
